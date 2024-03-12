@@ -11,7 +11,7 @@ I'm particularly interested in how deep learning can be leveraged to accelerate 
 Throughout my studies, I've been fortunate to contribute to several projects that aim at harnessing the power of AI for healthcare innovations. Whether it's developing predictive models for molecular interactions or optimizing drug screening processes, I'm always on the lookout for new challenges that push the boundaries of what's possible.-->
 
 ## 🤝 Seeking Collaborations
-I'm eager to connect with fellow researchers, data scientists, and professionals who share my passion for AI and healthcare. Whether you're looking for a collaborator on a specific project or interested in exchanging ideas and insights, I'm all ears. I'm particularly keen on projects that aim to apply deep learning techniques to novel areas of drug discovery and development.
+I'm eager to connect with fellow researchers, data scientists, and professionals who share my passion for AI and healthcare. Whether you're looking for a collaborator on a specific project or interested in exchanging ideas and insights, I'm all ears. I'm particularly keen on projects that aim to apply deep learning techniques to novel areas of drug discovery and development.-->
 
-## 📬 Let's Connect!
-If you're interested in discussing potential collaborations or just want to chat about the latest in AI and healthcare, feel free to reach out to me here on GitHub or via zhenglu.chen@icloud.com. I'm looking forward to connecting with like-minded individuals and contributing to meaningful projects.
+<!-- ## 📬 Let's Connect!
+If you're interested in discussing potential collaborations or just want to chat about the latest in AI and healthcare, feel free to reach out to me here on GitHub or via zhenglu.chen@icloud.com. I'm looking forward to connecting with like-minded individuals and contributing to meaningful projects.-->
