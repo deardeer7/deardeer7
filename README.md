@@ -1,5 +1,5 @@
 ## 👋 Hi there! 
-I'm deardeer, currently a master's student at Lanzhou University. I'm deeply engrossed in the fascinating world of Deep Learning and Drug Discovery, exploring the potential of artificial intelligence to revolutionize healthcare and pharmaceuticals.
+I'm deardeer, currently a Master candidate at Lanzhou University. I'm deeply engrossed in the fascinating world of Deep Learning and Drug Discovery, exploring the potential of artificial intelligence to revolutionize healthcare and pharmaceuticals.
 
 <!--  ## 🎓 Academic Journey
 My journey at Lanzhou University has been incredibly rewarding, offering me the opportunity to delve into cutting-edge research under the guidance of esteemed professors. My coursework and research projects have not only solidified my foundation in deep learning algorithms but also allowed me to explore their practical applications in drug discovery processes.-->
